@@ -2,9 +2,11 @@
 
 # Link
 
-[https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel](https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel)
-
 [https://developer.apple.com/machine-learning/build-run-models/](https://developer.apple.com/machine-learning/build-run-models/)
+
+# Resource
+
+[https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel](https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel)]
 
 #  Theory
 
