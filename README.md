@@ -41,7 +41,7 @@
 
 - Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward.
 
-#  So what CoreML provides us?
+#  So what CoreML provides?
 
 1. Load a Pre-Trained Model
 2. Make Predictions
