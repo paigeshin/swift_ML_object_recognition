@@ -1,5 +1,11 @@
 # swift_machine_learning
 
+# Link
+
+[https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel](https://docs-assets.developer.apple.com/coreml/models/Inceptionv3.mlmodel)
+
+[https://developer.apple.com/machine-learning/build-run-models/](https://developer.apple.com/machine-learning/build-run-models/)
+
 #  Theory
 
 ##  Machine Learning
@@ -26,7 +32,6 @@
 - Computer absorbs a whole bunch of data and tries to make a structure
 
 ###  Clustering
-
 
 - Just by looking at grouped data, you or computer can understand a specific category of data group. "Cluster appears"
 
