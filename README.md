@@ -36,7 +36,6 @@ https://developer.apple.com/machine-learning/
 ##  Unsupervised Learning
 
 - Observe whole bunch of data
-- Make a structure to make computer understand data  e.g) divide roughly data, this might be some group of data
 - Computer absorbs a whole bunch of data and tries to make a structure
 
 ###  Clustering
