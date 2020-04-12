@@ -13,6 +13,7 @@
 		28CE9BDB244196AC0045957E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28CE9BD9244196AC0045957E /* Main.storyboard */; };
 		28CE9BDD244196AC0045957E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28CE9BDC244196AC0045957E /* Assets.xcassets */; };
 		28CE9BE0244196AC0045957E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28CE9BDE244196AC0045957E /* LaunchScreen.storyboard */; };
+		28CE9C312442F5180045957E /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 28CE9C302442F5180045957E /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		28CE9BDC244196AC0045957E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28CE9BDF244196AC0045957E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28CE9BE1244196AC0045957E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28CE9C302442F5180045957E /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../../Resource/Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				28CE9BDC244196AC0045957E /* Assets.xcassets */,
 				28CE9BDE244196AC0045957E /* LaunchScreen.storyboard */,
 				28CE9BE1244196AC0045957E /* Info.plist */,
+				28CE9C302442F5180045957E /* Inceptionv3.mlmodel */,
 			);
 			path = Swift_machine_learning;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28CE9BD8244196AC0045957E /* ViewController.swift in Sources */,
+				28CE9C312442F5180045957E /* Inceptionv3.mlmodel in Sources */,
 				28CE9BD4244196AC0045957E /* AppDelegate.swift in Sources */,
 				28CE9BD6244196AC0045957E /* SceneDelegate.swift in Sources */,
 			);
@@ -285,6 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 35W7TZ9DUM;
 				INFOPLIST_FILE = Swift_machine_learning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +307,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 35W7TZ9DUM;
 				INFOPLIST_FILE = Swift_machine_learning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
