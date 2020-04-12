@@ -1,5 +1,7 @@
 # swift_machine_learning
 
+https://www.notion.so/Swift-Machine-Learning-87289761998846179e235ff1318200e7
+
 # Link
 
 https://developer.apple.com/machine-learning/
@@ -69,6 +71,9 @@ https://developer.apple.com/machine-learning/
 6. `VNCoreMLRequest` ⇒ VNCoreMLModel을 토대로 request를 만든다. 이 부분에 callback 함수가 달려있는데 결과값을 가져옴.
 7. `VNImageRequestHandler` ⇒ VNImageRequestHandler에다가 비교하고 싶은 데이터를 넣는다. 
 
+
+### Code 
+
         //
         //  ViewController.swift
         //  Swift_machine_learning
@@ -134,7 +139,7 @@ https://developer.apple.com/machine-learning/
              Supervised Learning, Classification
              모두 Vision Framework에서 온 Object들
              
-             1. VNCoreMLModel - ciImage를 받아서 model로 만들어준다.
+             1. VNCoreMLModel - mlModel을 만든다
              2. VNCoreMLRequest - 만든 모델을 토대로 request object를 만듬.
              3. VNImageRequestHandler - 실제로 실행한다.
              
